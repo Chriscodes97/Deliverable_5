@@ -44,7 +44,7 @@ namespace Deliverable_5
                     {
                         int[] sampleArray = random_array(input);
 
-                        Console.WriteLine("The elements of the arrays are: ");
+                        Console.WriteLine("The elements of the random array are: ");
                         foreach (int element in sampleArray)
                         {
                             Console.Write(element + " ");
